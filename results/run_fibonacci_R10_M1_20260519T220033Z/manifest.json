@@ -1,0 +1,89 @@
+{
+  "command": "python run_fibonacci.py --R 10.0 --M 1.0",
+  "delta_M_size": 3,
+  "dim_A": 5,
+  "dim_J": 4,
+  "dim_TKK": 13,
+  "dim_instr": 5,
+  "field": "Z[phi]/Q",
+  "jordan_identity": {
+    "n_checked": 16,
+    "n_failures": 0,
+    "verified": true
+  },
+  "jordan_triple_identity_sample": {
+    "n_checked": 30,
+    "n_failures": 0,
+    "verified": true
+  },
+  "model_set": "Fibonacci",
+  "n_points": 15,
+  "patch_first_5_points": [
+    [
+      -3,
+      -4,
+      -9.472136
+    ],
+    [
+      -2,
+      -4,
+      -8.472136
+    ],
+    [
+      -2,
+      -3,
+      -6.854102
+    ],
+    [
+      -2,
+      -2,
+      -5.236068
+    ],
+    [
+      -1,
+      -2,
+      -4.236068
+    ]
+  ],
+  "patch_last_5_points": [
+    [
+      1,
+      2,
+      4.236068
+    ],
+    [
+      1,
+      3,
+      5.854102
+    ],
+    [
+      2,
+      3,
+      6.854102
+    ],
+    [
+      2,
+      4,
+      8.472136
+    ],
+    [
+      3,
+      4,
+      9.472136
+    ]
+  ],
+  "patch_radius_R": 10.0,
+  "propagation_max_M": 1.0,
+  "python_version": "3.11.9",
+  "runtime_seconds": 0.122,
+  "script": "run_fibonacci.py",
+  "self_hash": "46218517689259ba",
+  "timestamp_utc": "20260519T220033Z",
+  "version": 1,
+  "window": "[-1, 1/phi)",
+  "z2_inversion_symmetry": {
+    "jordan_invariance": null,
+    "n_missing": 4,
+    "perm_total": false
+  }
+}

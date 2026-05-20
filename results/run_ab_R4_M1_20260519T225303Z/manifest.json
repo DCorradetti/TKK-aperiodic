@@ -1,0 +1,87 @@
+{
+  "command": "python run_ab.py --R 4.0 --M 1.0",
+  "delta_M_samples": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      -1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      -1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      -1
+    ],
+    [
+      1,
+      -1,
+      0,
+      0
+    ],
+    [
+      -1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      -1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "delta_M_size": 9,
+  "dim_A": 3249,
+  "dim_J": 1653,
+  "dim_TKK": null,
+  "dim_instr": null,
+  "field": "Z[sqrt(2)]/Q",
+  "inversion_symmetry": {
+    "jordan_invariance": true,
+    "k": 4,
+    "perm_total": true
+  },
+  "jordan_identity_sample": {
+    "n_checked": 64,
+    "n_failures": 0,
+    "verified": true
+  },
+  "lattice": "Z^4 via Z[sqrt(2)] + i Z[sqrt(2)]",
+  "model_set": "Ammann-Beenker",
+  "n_points": 57,
+  "patch_radius_R": 4.0,
+  "propagation_max_M": 1.0,
+  "python_version": "3.11.9",
+  "runtime_seconds": 35.066,
+  "script": "run_ab.py",
+  "self_hash": "4c76b250943613ff",
+  "timestamp_utc": "20260519T225303Z",
+  "version": 1,
+  "window": "regular octagon, apothem 1.707107"
+}

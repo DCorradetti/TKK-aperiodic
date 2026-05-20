@@ -1,0 +1,1 @@
+Fibonacci R=80.0, M=1.0 — see manifest.json
