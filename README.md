@@ -1,4 +1,18 @@
 # TKK Aperiodic
+[![License: MIT](https://img.shields.io/github/license/DCorradetti/TKK-aperiodic?style=flat-square&color=blue)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/DCorradetti/TKK-aperiodic?style=flat-square)](https://github.com/DCorradetti/TKK-aperiodic/commits/main)
+[![Repo size](https://img.shields.io/github/repo-size/DCorradetti/TKK-aperiodic?style=flat-square)](https://github.com/DCorradetti/TKK-aperiodic)
+[![Stars](https://img.shields.io/github/stars/DCorradetti/TKK-aperiodic?style=flat-square&logo=github)](https://github.com/DCorradetti/TKK-aperiodic/stargazers)
+
+[![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![SymPy 1.13](https://img.shields.io/badge/SymPy-1.13-3B5526?style=flat-square)](https://www.sympy.org/)
+[![NumPy 1.26](https://img.shields.io/badge/NumPy-1.26-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Exact arithmetic](https://img.shields.io/badge/arithmetic-exact%20%E2%84%9A-success?style=flat-square)](#determinism)
+[![Reproducible](https://img.shields.io/badge/runs-reproducible-success?style=flat-square)](#determinism)
+
+[![Companion paper (arXiv)](https://img.shields.io/badge/arXiv-2303.12219-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2303.12219)
+[![Companion paper (DOI)](https://img.shields.io/badge/DOI-10.1016%2Fj.geomphys.2025.105645-blue?style=flat-square)](https://doi.org/10.1016/j.geomphys.2025.105645)
+[![Topic](https://img.shields.io/badge/topic-Jordan%20algebras%20%E2%80%A2%20TKK%20%E2%80%A2%20quasicrystals-7B3FE4?style=flat-square)](#what-is-in-here)
 
 Reproducibility package for
 
